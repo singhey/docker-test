@@ -8,6 +8,9 @@ This is an assignment project used to automated the following cases
 * When a filter is removed from top. Same is removed from left menu
 
 ## Commands:
+To download all required dependency run:
+* `npm install` or `yarn install`
+
 To run tests: 
 * If running npm: `npm run test`
 * If using yarn: `yarn test`
